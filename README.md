@@ -1,16 +1,11 @@
 # dealsapp
 
-A new Flutter project.
+A Flutter app for browsing top, popular, and featured deals using API with MVVM architecture and Bloc state management.
 
-## Getting Started
+DealsApp: Flutter app showing Top, Popular, and Featured deals with caching, pagination, and state management.
 
-This project is a starting point for a Flutter application.
+## How to run the app
 
-A few resources to get you started if this is your first Flutter project:
+1 Connect your device or start an emulator.
+2 Then run this command in your termianl : flutter pub get flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
